@@ -27,6 +27,7 @@ CPackSourceConfig.cmake
 Makefile
 cmake_install.cmake
 docopt-config-version.cmake
+docopt.pc
 
 # Files configured by CMake
 run_tests
